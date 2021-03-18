@@ -1,0 +1,2950 @@
+[
+  {
+    "Date": "2008-09-04",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 16,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 38,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 34,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 38,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 20,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 34,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 26,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 28,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 23,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-09-07",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 29,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-09-08",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 24,
+    "PtsL": 19
+ },
+  {
+    "Date": "2008-09-08",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 41,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 41,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 23,
+    "PtsL": 8
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 29,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 48,
+    "PtsL": 25
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 18,
+    "PtsL": 15
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 24,
+    "PtsL": 9
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 31,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 19,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 39,
+    "PtsL": 38
+ },
+  {
+    "Date": "2008-09-14",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-09-15",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 41,
+    "PtsL": 37
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 31,
+    "PtsL": 12
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 38,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 23
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 34,
+    "PtsL": 32
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 31,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 37,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 15,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 23,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 28,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-09-21",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 27,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-09-22",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 48,
+    "PtsL": 29
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 33,
+    "PtsL": 19
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 56,
+    "PtsL": 35
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 30,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 20,
+    "PtsL": 12
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 24,
+    "PtsL": 9
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 28,
+    "PtsL": 18
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 26,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-09-28",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-09-29",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 31,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 34,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 44,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 34,
+    "PtsL": 0
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 30,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 31,
+    "PtsL": 22
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 41,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-05",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 26,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-10-06",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 29,
+    "PtsL": 28
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 31,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 34,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 22,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 27,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 26,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 19,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 12,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 30,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 40,
+    "PtsL": 26
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-12",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-13",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 35,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 34,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 34,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 29,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 23,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 48,
+    "PtsL": 41
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 30,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 28,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 34,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 14,
+    "PtsL": 11
+ },
+  {
+    "Date": "2008-10-19",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-20",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 41,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 23,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 29,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 13,
+    "PtsL": 9
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 25,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 28,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 25,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 37,
+    "PtsL": 32
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 35,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-10-26",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-10-27",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 31,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 26,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 19,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 37,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 21,
+    "PtsL": 19
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 28,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 26,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 0
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 35,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 26,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-11-02",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 18,
+    "PtsL": 15
+ },
+  {
+    "Date": "2008-11-03",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 23,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-11-06",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 34,
+    "PtsL": 30
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 41,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 34,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 47,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 21,
+    "PtsL": 19
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 28,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 20,
+    "PtsL": 19
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-09",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 36,
+    "PtsL": 31
+ },
+  {
+    "Date": "2008-11-10",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 29,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-11-13",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 30,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 17,
+    "PtsL": 15
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 19,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 37,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 33,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 31,
+    "PtsL": 22
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 13,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 35,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 26,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 11,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-16",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 14,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-17",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 29,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-11-20",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 27,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 54,
+    "PtsL": 31
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 36,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 48,
+    "PtsL": 28
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 35,
+    "PtsL": 22
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 38,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 16,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 30,
+    "PtsL": 12
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 31,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 45,
+    "PtsL": 28
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 37,
+    "PtsL": 29
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-11-23",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-24",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 51,
+    "PtsL": 29
+ },
+  {
+    "Date": "2008-11-27",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 47,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-27",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 34,
+    "PtsL": 9
+ },
+  {
+    "Date": "2008-11-27",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 48,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 16,
+    "PtsL": 12
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 10,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 35,
+    "PtsL": 31
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 34,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 23,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 22,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 33,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-11-30",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 34,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-12-01",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-12-04",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 34,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 29,
+    "PtsL": 25
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 35,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 28,
+    "PtsL": 9
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 20,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 16,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 34,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-12-07",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-12-08",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 38,
+    "PtsL": 23
+ },
+  {
+    "Date": "2008-12-11",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 22,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 31,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 31,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 14,
+    "PtsL": 9
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 13,
+    "PtsL": 12
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 35,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 49,
+    "PtsL": 26
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 13,
+    "PtsL": 9
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-12-14",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 20,
+    "PtsL": 8
+ },
+  {
+    "Date": "2008-12-15",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Date": "2008-12-18",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-12-20",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 33,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 38,
+    "PtsL": 31
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 17,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 47,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 41,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 14,
+    "PtsL": 0
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 42,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 27,
+    "PtsL": 16
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 13,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 10,
+    "PtsL": 3
+ },
+  {
+    "Date": "2008-12-21",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 34,
+    "PtsL": 28
+ },
+  {
+    "Date": "2008-12-22",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 13,
+    "PtsL": 0
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 31,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 31,
+    "PtsL": 0
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 23,
+    "PtsL": 0
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 31,
+    "PtsL": 27
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 16,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 33,
+    "PtsL": 31
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 20,
+    "PtsL": 19
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 34,
+    "PtsL": 21
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 44,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 27,
+    "PtsL": 7
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-12-28",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 52,
+    "PtsL": 21
+ },
+  {
+    "Date": "Playoffs",
+    "Winner": {
+       "tie": ""
+    },
+    "Loser": {
+       "tie": ""
+    },
+    "PtsW": null,
+    "PtsL": null
+ },
+  {
+    "Date": "2009-01-03",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 30,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-01-03",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-01-04",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-01-04",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 26,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-01-10",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-01-10",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 33,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-01-11",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 23,
+    "PtsL": 11
+ },
+  {
+    "Date": "2009-01-11",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 35,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-01-18",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 32,
+    "PtsL": 25
+ },
+  {
+    "Date": "2009-01-18",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 23,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-02-01",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ }
+ ]

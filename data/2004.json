@@ -1,0 +1,2950 @@
+[
+  {
+    "Date": "2004-09-09",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-09-11",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 17,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 16,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 21,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 20,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 35,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 21,
+    "PtsL": 19
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-09-12",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 34,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-09-13",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 28,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 7,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 30,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 21,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 20,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 28,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 19,
+    "PtsL": 12
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 34,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 23,
+    "PtsL": 12
+ },
+  {
+    "Date": "2004-09-19",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-09-20",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 27,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 27,
+    "PtsL": 22
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 23,
+    "PtsL": 9
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 15,
+    "PtsL": 12
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 28,
+    "PtsL": 25
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 30,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 6,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 23,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 45,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 34,
+    "PtsL": 0
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 30,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-09-26",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 13,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-09-27",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 21,
+    "PtsL": 18
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 28,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 14,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 19,
+    "PtsL": 9
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 34,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 17,
+    "PtsL": 9
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 38,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-03",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-04",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 35,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 34,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 34,
+    "PtsL": 23
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 26,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 34,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 16,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 33,
+    "PtsL": 27
+ },
+  {
+    "Date": "2004-10-10",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-11",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 48,
+    "PtsL": 27
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 30,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 22,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 21,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 22,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 30,
+    "PtsL": 8
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 31,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-10-17",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 38,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-10-18",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 28,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 20,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 56,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 19,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 28,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 13,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 41,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 31,
+    "PtsL": 26
+ },
+  {
+    "Date": "2004-10-24",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 25,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-25",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 45,
+    "PtsL": 35
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 31,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 15,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 41,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 34,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 42,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-10-31",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 23,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-11-01",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 41,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 24,
+    "PtsL": 23
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 27,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 22,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 26,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 43,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 42,
+    "PtsL": 27
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 28,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 40,
+    "PtsL": 22
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 31,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-11-07",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-11-08",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 49,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 23,
+    "PtsL": 12
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 19,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 37,
+    "PtsL": 27
+ },
+  {
+    "Date": "2004-11-14",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 29,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-11-15",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 49,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 22,
+    "PtsL": 19
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 35,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 37,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 41,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 18,
+    "PtsL": 15
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 10,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 19,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 35,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 14,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 28,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-11-21",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-11-22",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 27,
+    "PtsL": 19
+ },
+  {
+    "Date": "2004-11-25",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 41,
+    "PtsL": 9
+ },
+  {
+    "Date": "2004-11-25",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 21,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 27,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 16,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 58,
+    "PtsL": 48
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 27,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 31,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 13,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 24,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 38,
+    "PtsL": 9
+ },
+  {
+    "Date": "2004-11-28",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 25,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-11-29",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 45,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 42,
+    "PtsL": 15
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 51,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 27,
+    "PtsL": 0
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 16,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 26
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 32,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 29,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 26,
+    "PtsL": 12
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 42,
+    "PtsL": 32
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 34,
+    "PtsL": 27
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 47,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 31,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-05",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 17,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-12-06",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 43,
+    "PtsL": 39
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 37,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 37,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 35,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 23,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 35,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 22,
+    "PtsL": 3
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 20,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-12",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-12-13",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 49,
+    "PtsL": 38
+ },
+  {
+    "Date": "2004-12-18",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Date": "2004-12-18",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 26,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-12-18",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 45,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 12,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 37,
+    "PtsL": 14
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 24,
+    "PtsL": 5
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 33,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 28,
+    "PtsL": 27
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 21,
+    "PtsL": 0
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 21,
+    "PtsL": 17
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 31,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 40,
+    "PtsL": 35
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 28,
+    "PtsL": 25
+ },
+  {
+    "Date": "2004-12-19",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-12-20",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 29,
+    "PtsL": 28
+ },
+  {
+    "Date": "2004-12-24",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-12-25",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 31,
+    "PtsL": 30
+ },
+  {
+    "Date": "2004-12-25",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 37,
+    "PtsL": 16
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 20,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 26,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 19,
+    "PtsL": 13
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 21,
+    "PtsL": 0
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 23,
+    "PtsL": 22
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 23,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 41,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 37,
+    "PtsL": 20
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2004-12-26",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 10,
+    "PtsL": 7
+ },
+  {
+    "Date": "2004-12-27",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 20,
+    "PtsL": 7
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 21,
+    "PtsL": 7
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 32,
+    "PtsL": 29
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 29,
+    "PtsL": 24
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 21,
+    "PtsL": 18
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 22,
+    "PtsL": 14
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 24,
+    "PtsL": 19
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 21,
+    "PtsL": 18
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 28,
+    "PtsL": 26
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 12,
+    "PtsL": 7
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 33,
+    "PtsL": 14
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 13,
+    "PtsL": 6
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2005-01-02",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 28,
+    "PtsL": 24
+ },
+  {
+    "Date": "Playoffs",
+    "Winner": {
+       "tie": ""
+    },
+    "Loser": {
+       "tie": ""
+    },
+    "PtsW": null,
+    "PtsL": null
+ },
+  {
+    "Date": "2005-01-08",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2005-01-08",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2005-01-09",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 49,
+    "PtsL": 24
+ },
+  {
+    "Date": "2005-01-09",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2005-01-15",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2005-01-15",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 47,
+    "PtsL": 17
+ },
+  {
+    "Date": "2005-01-16",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Date": "2005-01-16",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 20,
+    "PtsL": 3
+ },
+  {
+    "Date": "2005-01-23",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Date": "2005-01-23",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 41,
+    "PtsL": 27
+ },
+  {
+    "Date": "2005-02-06",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ }
+ ]

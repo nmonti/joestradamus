@@ -1,0 +1,2950 @@
+[
+  {
+    "Date": "2009-09-10",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 12,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 38,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 14,
+    "PtsL": 12
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 34,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 45,
+    "PtsL": 27
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 24,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 34,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 19,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 28,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-09-13",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 21,
+    "PtsL": 15
+ },
+  {
+    "Date": "2009-09-14",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 25,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-09-14",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 16,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 28,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 9,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 48,
+    "PtsL": 22
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 33,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 27,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 31,
+    "PtsL": 26
+ },
+  {
+    "Date": "2009-09-20",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 33,
+    "PtsL": 31
+ },
+  {
+    "Date": "2009-09-21",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 24,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 36,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 26,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 19,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 34,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 34,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 27,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 25,
+    "PtsL": 19
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 23,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 23,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-09-27",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 31,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-09-28",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 21,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 27,
+    "PtsL": 16
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 29,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 48,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 37,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 35,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-10-04",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 38,
+    "PtsL": 28
+ },
+  {
+    "Date": "2009-10-05",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 26,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 6,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 33,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 44,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 28,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 45,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 28,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 41,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-10-11",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 31,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-10-12",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 31,
+    "PtsL": 27
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 28,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 26,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 28,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 48,
+    "PtsL": 27
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 14,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 33,
+    "PtsL": 31
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 27,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 13,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 59,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-10-18",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-10-19",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 34,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 42,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 37,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 31,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 35,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 38,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 46,
+    "PtsL": 34
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 37,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 45,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-10-25",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-10-26",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 30,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 30,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 30,
+    "PtsL": 25
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 31,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 38,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 18,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 40,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 30,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 16
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 34,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-11-01",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 38,
+    "PtsL": 26
+ },
+  {
+    "Date": "2009-11-02",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 35,
+    "PtsL": 27
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 17,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 41,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 38,
+    "PtsL": 28
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 30,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 32,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 34,
+    "PtsL": 27
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 21,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-11-08",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2009-11-09",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 28,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-11-12",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 28,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 41,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 18,
+    "PtsL": 12
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 22
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 28,
+    "PtsL": 19
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 25,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 16,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 31,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 17,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 31,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-11-15",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 35,
+    "PtsL": 34
+ },
+  {
+    "Date": "2009-11-16",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 16,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-11-19",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 38,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 17,
+    "PtsL": 15
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 30,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 38,
+    "PtsL": 37
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 7,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 18,
+    "PtsL": 15
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 35,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 21,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 32,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-22",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-11-23",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-26",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 34,
+    "PtsL": 12
+ },
+  {
+    "Date": "2009-11-26",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-11-26",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 26,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 16,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 35,
+    "PtsL": 27
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 20,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 43,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 36,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-11-29",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-11-30",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 38,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-03",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 19,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 44,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 17,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 22,
+    "PtsL": 21
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 23,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 34,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 16,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 23,
+    "PtsL": 18
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-06",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-07",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-12-10",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 13,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 16,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 26,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 34,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 48,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 28,
+    "PtsL": 16
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 14,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 47,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-13",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 45,
+    "PtsL": 38
+ },
+  {
+    "Date": "2009-12-14",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 24,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-12-17",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 35,
+    "PtsL": 31
+ },
+  {
+    "Date": "2009-12-19",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 41,
+    "PtsL": 34
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 10,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 20,
+    "PtsL": 19
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 31,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 37,
+    "PtsL": 36
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 24,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-20",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 26,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-21",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 45,
+    "PtsL": 12
+ },
+  {
+    "Date": "2009-12-25",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 42,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 23,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 31,
+    "PtsL": 3
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 48,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 35,
+    "PtsL": 7
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 41,
+    "PtsL": 9
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 31,
+    "PtsL": 10
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 29,
+    "PtsL": 15
+ },
+  {
+    "Date": "2009-12-27",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 0
+ },
+  {
+    "Date": "2009-12-28",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 36,
+    "PtsL": 30
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 28,
+    "PtsL": 6
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 30,
+    "PtsL": 7
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 30,
+    "PtsL": 24
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 34,
+    "PtsL": 27
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 37,
+    "PtsL": 23
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 44,
+    "PtsL": 7
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 33,
+    "PtsL": 7
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 24,
+    "PtsL": 0
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 44,
+    "PtsL": 24
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 21,
+    "PtsL": 13
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 17,
+    "PtsL": 13
+ },
+  {
+    "Date": "2010-01-03",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 37,
+    "PtsL": 0
+ },
+  {
+    "Date": "Playoffs",
+    "Winner": {
+       "tie": ""
+    },
+    "Loser": {
+       "tie": ""
+    },
+    "PtsW": null,
+    "PtsL": null
+ },
+  {
+    "Date": "2010-01-09",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2010-01-09",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 34,
+    "PtsL": 14
+ },
+  {
+    "Date": "2010-01-10",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 33,
+    "PtsL": 14
+ },
+  {
+    "Date": "2010-01-10",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 51,
+    "PtsL": 45
+ },
+  {
+    "Date": "2010-01-16",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 45,
+    "PtsL": 14
+ },
+  {
+    "Date": "2010-01-16",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 20,
+    "PtsL": 3
+ },
+  {
+    "Date": "2010-01-17",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 34,
+    "PtsL": 3
+ },
+  {
+    "Date": "2010-01-17",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Date": "2010-01-24",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Date": "2010-01-24",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2010-02-07",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ }
+ ]

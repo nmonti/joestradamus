@@ -1,0 +1,2950 @@
+[
+  {
+    "Date": "2007-09-06",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 41,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 24,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 15,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 34,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 20,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 36,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 14,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-09-09",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 45,
+    "PtsL": 35
+ },
+  {
+    "Date": "2007-09-10",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-09-10",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 17,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 26,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 34,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 22,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 51,
+    "PtsL": 45
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 35,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 13,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 37,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-09-16",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-17",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 20,
+    "PtsL": 12
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 38,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 56,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 37,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 24,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 30,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 23,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 26,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-09-23",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 34,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-09-24",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 26,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 35,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 37,
+    "PtsL": 27
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 23,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 35,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 23,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 30,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 38,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-09-30",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 16,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-10-01",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 17,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 35,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 21,
+    "PtsL": 0
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 34,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 22,
+    "PtsL": 19
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 33,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 9,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 41,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-10-07",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-10-08",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 25,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 16,
+    "PtsL": 9
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 22,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 37,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 41,
+    "PtsL": 31
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 25,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 48,
+    "PtsL": 27
+ },
+  {
+    "Date": "2007-10-14",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 28,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-10-15",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 31,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 19,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 21,
+    "PtsL": 19
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 49,
+    "PtsL": 28
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 38,
+    "PtsL": 36
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 23,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 22,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 33,
+    "PtsL": 15
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 38,
+    "PtsL": 31
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 12,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 19,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 33,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-10-21",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2007-10-22",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 29,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 13,
+    "PtsL": 9
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 31,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 23,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 16,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 13,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 24,
+    "PtsL": 23
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 35,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 31,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-10-28",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 52,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-10-29",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 19,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 33,
+    "PtsL": 22
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 44,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 33,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 41,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 35,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-11-04",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 38,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-05",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 38,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 27,
+    "PtsL": 11
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 37,
+    "PtsL": 29
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 34,
+    "PtsL": 0
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 28,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 33,
+    "PtsL": 25
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 21,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 31,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 31,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-11-11",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 23,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-11-12",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 24,
+    "PtsL": 0
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 35,
+    "PtsL": 27
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 17,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 16,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 29,
+    "PtsL": 22
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 31,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 19,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 28,
+    "PtsL": 23
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 13,
+    "PtsL": 9
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Date": "2007-11-18",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 56,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-11-19",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 34,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-11-22",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 37,
+    "PtsL": 26
+ },
+  {
+    "Date": "2007-11-22",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 34,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-11-22",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 31,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 24,
+    "PtsL": 19
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 19,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 35,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 41,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 36,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 31,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 37,
+    "PtsL": 31
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 32,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 37,
+    "PtsL": 34
+ },
+  {
+    "Date": "2007-11-25",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2007-11-26",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 3,
+    "PtsL": 0
+ },
+  {
+    "Date": "2007-11-29",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 37,
+    "PtsL": 27
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "St. Louis Rams"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 28,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 28,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 28,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 28,
+    "PtsL": 25
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 40,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 42,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 34,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 27,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 21,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-12-02",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-03",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-12-06",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 24,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 38,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 38,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 19,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 37,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 28,
+    "PtsL": 27
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 27,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 42,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 41,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 18
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-09",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 44,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-12-10",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 34,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-12-13",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 31,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-15",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 33,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 26,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 29,
+    "PtsL": 22
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 37,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 8,
+    "PtsL": 0
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 22,
+    "PtsL": 16
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 51,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-12-16",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 22,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-17",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-20",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 41,
+    "PtsL": 24
+ },
+  {
+    "Date": "2007-12-22",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 38,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 38,
+    "PtsL": 15
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 38,
+    "PtsL": 23
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 25,
+    "PtsL": 20
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 19,
+    "PtsL": 14
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 49,
+    "PtsL": 11
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 35,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 21,
+    "PtsL": 19
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 28,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-12-23",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 32,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-12-24",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 23,
+    "PtsL": 3
+ },
+  {
+    "Date": "2007-12-29",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 38,
+    "PtsL": 35
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 33,
+    "PtsL": 25
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 17,
+    "PtsL": 9
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 31,
+    "PtsL": 23
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 42,
+    "PtsL": 28
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 38,
+    "PtsL": 25
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 20,
+    "PtsL": 7
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 44,
+    "PtsL": 41
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "St. Louis Rams"
+    },
+    "PtsW": 48,
+    "PtsL": 19
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 27,
+    "PtsL": 6
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 22,
+    "PtsL": 19
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 27,
+    "PtsL": 21
+ },
+  {
+    "Date": "2007-12-30",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 16,
+    "PtsL": 10
+ },
+  {
+    "Date": "Playoffs",
+    "Winner": {
+       "tie": ""
+    },
+    "Loser": {
+       "tie": ""
+    },
+    "PtsW": null,
+    "PtsL": null
+ },
+  {
+    "Date": "2008-01-05",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 35,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-01-05",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 31,
+    "PtsL": 29
+ },
+  {
+    "Date": "2008-01-06",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Date": "2008-01-06",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Date": "2008-01-12",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 42,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-01-12",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 31,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-01-13",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 28,
+    "PtsL": 24
+ },
+  {
+    "Date": "2008-01-13",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 21,
+    "PtsL": 17
+ },
+  {
+    "Date": "2008-01-20",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 21,
+    "PtsL": 12
+ },
+  {
+    "Date": "2008-01-20",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2008-02-03",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ }
+ ]

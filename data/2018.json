@@ -1,0 +1,2950 @@
+[
+  {
+    "Date": "2018-09-06",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 18,
+    "PtsL": 12
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 48,
+    "PtsL": 40
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 47,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 34,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 21,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 20,
+    "PtsL": 15
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 24,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Los Angeles Chargers"
+    },
+    "PtsW": 38,
+    "PtsL": 28
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 24,
+    "PtsL": 6
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 16,
+    "PtsL": 8
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-09-09",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 24,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-09-10",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 48,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-09-10",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 33,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-09-13",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 34,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 27,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 29,
+    "PtsL": 29
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 42,
+    "PtsL": 37
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 21,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 31,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 21,
+    "PtsL": 18
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 20,
+    "PtsL": 12
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 34,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 20,
+    "PtsL": 19
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 31,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-09-16",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-09-17",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-09-20",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 21,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 43,
+    "PtsL": 37
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 27,
+    "PtsL": 6
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 28,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 31,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 27,
+    "PtsL": 22
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 9,
+    "PtsL": 6
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 38,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Los Angeles Chargers"
+    },
+    "PtsW": 35,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 16,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 24,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-09-23",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 26,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-09-24",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-09-27",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 38,
+    "PtsL": 31
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 26,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 31,
+    "PtsL": 12
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 37,
+    "PtsL": 34
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 37,
+    "PtsL": 36
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 22,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 48,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 38,
+    "PtsL": 7
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 45,
+    "PtsL": 42
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 33,
+    "PtsL": 18
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 29,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-09-30",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 26,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-10-01",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-10-04",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 38,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 33,
+    "PtsL": 31
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 41,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 13,
+    "PtsL": 12
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 12,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 34,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 31,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 30,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 26,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 33,
+    "PtsL": 31
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 23,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 28,
+    "PtsL": 18
+ },
+  {
+    "Date": "2018-10-07",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 19,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-10-08",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 43,
+    "PtsL": 19
+ },
+  {
+    "Date": "2018-10-11",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 34,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 42,
+    "PtsL": 34
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 34,
+    "PtsL": 29
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 27,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 28,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 40,
+    "PtsL": 7
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 21,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-10-14",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 43,
+    "PtsL": 40
+ },
+  {
+    "Date": "2018-10-15",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Date": "2018-10-18",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 45,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 20,
+    "PtsL": 19
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 21,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 32,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 38,
+    "PtsL": 31
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 37,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 37,
+    "PtsL": 5
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 20,
+    "PtsL": 7
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 24,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 39,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-10-21",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 45,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-10-22",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-10-25",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 42,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 24,
+    "PtsL": 18
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 36,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 37,
+    "PtsL": 34
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 33,
+    "PtsL": 18
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 42,
+    "PtsL": 28
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 29,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 18,
+    "PtsL": 15
+ },
+  {
+    "Date": "2018-10-28",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 30,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-10-29",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 25,
+    "PtsL": 6
+ },
+  {
+    "Date": "2018-11-01",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 34,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 42,
+    "PtsL": 28
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 23,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 24,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 41,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 37,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 13,
+    "PtsL": 6
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 25,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 19,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 45,
+    "PtsL": 35
+ },
+  {
+    "Date": "2018-11-04",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-05",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-11-08",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 52,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 28,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 16,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 51,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 29,
+    "PtsL": 26
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 26,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 34,
+    "PtsL": 22
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 34,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 41,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 31,
+    "PtsL": 12
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 36,
+    "PtsL": 31
+ },
+  {
+    "Date": "2018-11-11",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-11-12",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-11-15",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 20,
+    "PtsL": 19
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 23,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 22,
+    "PtsL": 19
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 38,
+    "PtsL": 35
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 20,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 23,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Los Angeles Chargers"
+    },
+    "PtsW": 23,
+    "PtsL": 22
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 48,
+    "PtsL": 7
+ },
+  {
+    "Date": "2018-11-18",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 25,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-11-19",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 54,
+    "PtsL": 51
+ },
+  {
+    "Date": "2018-11-22",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 23,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-11-22",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 31,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-11-22",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 25,
+    "PtsL": 22
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 35,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 27,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 27,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 45,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-11-25",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-26",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-11-29",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Arizona Cardinals"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 26,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 21,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 30,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 29,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 6,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 40,
+    "PtsL": 33
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 26,
+    "PtsL": 22
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 43,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-12-02",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Date": "2018-12-03",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 28,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-12-06",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 30,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 34,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 40,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 26,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 34,
+    "PtsL": 33
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 26,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 20,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 29,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 24,
+    "PtsL": 21
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 17,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-12-09",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 15,
+    "PtsL": 6
+ },
+  {
+    "Date": "2018-12-10",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 21,
+    "PtsL": 7
+ },
+  {
+    "Date": "2018-12-13",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 29,
+    "PtsL": 28
+ },
+  {
+    "Date": "2018-12-15",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 29,
+    "PtsL": 22
+ },
+  {
+    "Date": "2018-12-15",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 17,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 17,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 20,
+    "PtsL": 12
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 24,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 41,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 40,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 14,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 30,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 23,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-12-16",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Date": "2018-12-17",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 12,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-12-22",
+    "Winner": {
+       "tie": "Tennessee Titans"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 25,
+    "PtsL": 16
+ },
+  {
+    "Date": "2018-12-22",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Los Angeles Chargers"
+    },
+    "PtsW": 22,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Carolina Panthers"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 24,
+    "PtsL": 12
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 27,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 44,
+    "PtsL": 38
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 26,
+    "PtsL": 18
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 17,
+    "PtsL": 7
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 28,
+    "PtsL": 27
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 32,
+    "PtsL": 30
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 31,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 14,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 31,
+    "PtsL": 28
+ },
+  {
+    "Date": "2018-12-23",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 38,
+    "PtsL": 31
+ },
+  {
+    "Date": "2018-12-24",
+    "Winner": {
+       "tie": "Oakland Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 36,
+    "PtsL": 35
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Houston Texans"
+    },
+    "Loser": {
+       "tie": "Jacksonville Jaguars"
+    },
+    "PtsW": 20,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 34,
+    "PtsL": 32
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 38,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 42,
+    "PtsL": 17
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Carolina Panthers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 33,
+    "PtsL": 14
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 31,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Oakland Raiders"
+    },
+    "PtsW": 35,
+    "PtsL": 3
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Arizona Cardinals"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 24,
+    "PtsL": 0
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 23,
+    "PtsL": 9
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 48,
+    "PtsL": 32
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Baltimore Ravens"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 26,
+    "PtsL": 24
+ },
+  {
+    "Date": "2018-12-30",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Tennessee Titans"
+    },
+    "PtsW": 33,
+    "PtsL": 17
+ },
+  {
+    "Date": "Playoffs",
+    "Winner": {
+       "tie": ""
+    },
+    "Loser": {
+       "tie": ""
+    },
+    "PtsW": null,
+    "PtsL": null
+ },
+  {
+    "Date": "2019-01-05",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Houston Texans"
+    },
+    "PtsW": 21,
+    "PtsL": 7
+ },
+  {
+    "Date": "2019-01-05",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 24,
+    "PtsL": 22
+ },
+  {
+    "Date": "2019-01-06",
+    "Winner": {
+       "tie": "Los Angeles Chargers"
+    },
+    "Loser": {
+       "tie": "Baltimore Ravens"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Date": "2019-01-06",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 16,
+    "PtsL": 15
+ },
+  {
+    "Date": "2019-01-12",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 31,
+    "PtsL": 13
+ },
+  {
+    "Date": "2019-01-12",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 30,
+    "PtsL": 22
+ },
+  {
+    "Date": "2019-01-13",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Los Angeles Chargers"
+    },
+    "PtsW": 41,
+    "PtsL": 28
+ },
+  {
+    "Date": "2019-01-13",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 20,
+    "PtsL": 14
+ },
+  {
+    "Date": "2019-01-20",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Date": "2019-01-20",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 37,
+    "PtsL": 31
+ },
+  {
+    "Date": "2019-02-03",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 13,
+    "PtsL": 3
+ }
+ ]

@@ -6,13 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Soothsayer of sports" />
     <link rel="stylesheet" type="text/css" href="/style.css" />
-    <script src="app.js" type="module"></script>
+    <script async src="app.js" type="module"></script>
   </head>
   <body>
     <main>
-      <div class="mdl-grid"><!--Dynamic Data here--></div>
-      <button class="center" onclick="pageEvents.getScore()">Get Score</button>
-      <div id="result"></div>
       <div>
         <select name="team1" id="team1">
           <option value="Arizona Cardinals">Cardinals</option>
@@ -102,6 +99,11 @@
           <option value="2019">2019</option>
           <option value="2020">2020</option>
         </select>
+      </div>
+      <button class="center" onclick="pageEvents.getScore()">Guess score</button>
+      <div class="results">
+        <div id="winner"></div>
+        <div id="loser"></div>
       </div>
     </main>
   </body>

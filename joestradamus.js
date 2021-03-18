@@ -23,14 +23,23 @@ export async function getScore() {
   const potentialScoresCount = potentialScores.length;
 
   if (potentialScoresCount == 0) {
-    document.getElementById("result").innerHTML = "Try another team combo and/or year!";
+    document.getElementById("winner").innerHTML = "Try another team combo and/or year!";
+    document.getElementById("loser").innerHTML = '';
   }
   else if (potentialScoresCount == 1) {
-    document.getElementById("result").innerHTML = potentialScores[0].Winner.tie;
+    const winner = `${potentialScores[0].Winner.tie} - ${potentialScores[0].PtsW}`;
+    const loser = `${potentialScores[0].Loser.tie} - ${potentialScores[0].PtsL}`;
+
+    document.getElementById("winner").innerHTML = winner;
+    document.getElementById("loser").innerHTML = loser;
   }
   else {
     let random = Math.floor(Math.random() * potentialScoresCount);
-    document.getElementById("result").innerHTML = potentialScores[random].Winner.tie;
+    const winner = `${potentialScores[random].Winner.tie} - ${potentialScores[random].PtsW}`;
+    const loser = `${potentialScores[random].Loser.tie} - ${potentialScores[random].PtsL}`;
+
+    document.getElementById("winner").innerHTML = winner;
+    document.getElementById("loser").innerHTML = loser;
   }
 
 }
