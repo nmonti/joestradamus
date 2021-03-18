@@ -1,0 +1,2834 @@
+[
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 30,
+    "PtsL": 13
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 24,
+    "PtsL": 13
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 26,
+    "PtsL": 20
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 38,
+    "PtsL": 14
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 36,
+    "PtsL": 6
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 27,
+    "PtsL": 3
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 18,
+    "PtsL": 12
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 26,
+    "PtsL": 20
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 24,
+    "PtsL": 7
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-05",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Houston Oilers"
+    },
+    "PtsW": 33,
+    "PtsL": 21
+ },
+  {
+    "Week": "1",
+    "Date": "1993-09-06",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 35,
+    "PtsL": 16
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 19,
+    "PtsL": 16
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 10,
+    "PtsL": 7
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 9,
+    "PtsL": 6
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 30,
+    "PtsL": 0
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Phoenix Cardinals"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 23,
+    "PtsL": 7
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 27,
+    "PtsL": 0
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 34,
+    "PtsL": 17
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-12",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 17,
+    "PtsL": 13
+ },
+  {
+    "Week": "2",
+    "Date": "1993-09-13",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 23,
+    "PtsL": 13
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 34,
+    "PtsL": 7
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 34,
+    "PtsL": 31
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 14,
+    "PtsL": 3
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 37,
+    "PtsL": 30
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Los Angeles Raiders"
+    },
+    "PtsW": 19,
+    "PtsL": 16
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Houston Oilers"
+    },
+    "PtsW": 18,
+    "PtsL": 17
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-19",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Week": "3",
+    "Date": "1993-09-20",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 15,
+    "PtsL": 7
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 22,
+    "PtsL": 13
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 15,
+    "PtsL": 13
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 47,
+    "PtsL": 17
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Houston Oilers"
+    },
+    "PtsW": 28,
+    "PtsL": 13
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 26,
+    "PtsL": 20
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 19,
+    "PtsL": 10
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-26",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 45,
+    "PtsL": 7
+ },
+  {
+    "Week": "4",
+    "Date": "1993-09-27",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 45,
+    "PtsL": 17
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 36,
+    "PtsL": 14
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Los Angeles Raiders"
+    },
+    "PtsW": 24,
+    "PtsL": 9
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 6,
+    "PtsL": 0
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 38,
+    "PtsL": 19
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 35,
+    "PtsL": 30
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 31,
+    "PtsL": 14
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 35,
+    "PtsL": 13
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 37,
+    "PtsL": 6
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-03",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Week": "5",
+    "Date": "1993-10-04",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 17,
+    "PtsL": 15
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 27,
+    "PtsL": 3
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 15,
+    "PtsL": 0
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 41,
+    "PtsL": 7
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 20
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 16,
+    "PtsL": 3
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 23,
+    "PtsL": 21
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-10",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Week": "6",
+    "Date": "1993-10-11",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Houston Oilers"
+    },
+    "PtsW": 35,
+    "PtsL": 7
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-14",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 30,
+    "PtsL": 24
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 37,
+    "PtsL": 14
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 21,
+    "PtsL": 10
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 28,
+    "PtsL": 17
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 26,
+    "PtsL": 17
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-17",
+    "Winner": {
+       "tie": "Phoenix Cardinals"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 36,
+    "PtsL": 6
+ },
+  {
+    "Week": "7",
+    "Date": "1993-10-18",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 19,
+    "PtsL": 10
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 37,
+    "PtsL": 14
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 26,
+    "PtsL": 15
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 28,
+    "PtsL": 12
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 10,
+    "PtsL": 9
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 28,
+    "PtsL": 14
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 28,
+    "PtsL": 23
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-24",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 41,
+    "PtsL": 27
+ },
+  {
+    "Week": "8",
+    "Date": "1993-10-25",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 19,
+    "PtsL": 12
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 17,
+    "PtsL": 3
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 9,
+    "PtsL": 6
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 31,
+    "PtsL": 24
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Los Angeles Raiders"
+    },
+    "PtsW": 30,
+    "PtsL": 23
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 28,
+    "PtsL": 17
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 40,
+    "PtsL": 17
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Week": "9",
+    "Date": "1993-10-31",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Week": "9",
+    "Date": "1993-11-01",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 24,
+    "PtsL": 10
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 29,
+    "PtsL": 14
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 31,
+    "PtsL": 9
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 24,
+    "PtsL": 16
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 23,
+    "PtsL": 0
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 16,
+    "PtsL": 14
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Phoenix Cardinals"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 16,
+    "PtsL": 3
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-07",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 30,
+    "PtsL": 24
+ },
+  {
+    "Week": "10",
+    "Date": "1993-11-08",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 23,
+    "PtsL": 16
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 38,
+    "PtsL": 3
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 45,
+    "PtsL": 21
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 19,
+    "PtsL": 17
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 19,
+    "PtsL": 14
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 20,
+    "PtsL": 15
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 13,
+    "PtsL": 0
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 26,
+    "PtsL": 23
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 31,
+    "PtsL": 17
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Los Angeles Raiders"
+    },
+    "PtsW": 31,
+    "PtsL": 20
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 22,
+    "PtsL": 5
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-14",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Week": "11",
+    "Date": "1993-11-15",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 23,
+    "PtsL": 0
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 17,
+    "PtsL": 13
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 27,
+    "PtsL": 14
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 23,
+    "PtsL": 9
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 26,
+    "PtsL": 17
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 19,
+    "PtsL": 17
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 17,
+    "PtsL": 12
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 12,
+    "PtsL": 7
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 37,
+    "PtsL": 13
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 7,
+    "PtsL": 3
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-21",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 23,
+    "PtsL": 10
+ },
+  {
+    "Week": "12",
+    "Date": "1993-11-22",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 42,
+    "PtsL": 7
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-25",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 10,
+    "PtsL": 6
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-25",
+    "Winner": {
+       "tie": "Miami Dolphins"
+    },
+    "Loser": {
+       "tie": "Dallas Cowboys"
+    },
+    "PtsW": 16,
+    "PtsL": 14
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Los Angeles Raiders"
+    },
+    "PtsW": 16,
+    "PtsL": 10
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 6,
+    "PtsL": 0
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 17,
+    "PtsL": 9
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 23,
+    "PtsL": 7
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 19,
+    "PtsL": 17
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 35,
+    "PtsL": 10
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-28",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 23,
+    "PtsL": 3
+ },
+  {
+    "Week": "13",
+    "Date": "1993-11-29",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 31,
+    "PtsL": 0
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 13,
+    "PtsL": 0
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Indianapolis Colts"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 9,
+    "PtsL": 6
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "New England Patriots"
+    },
+    "PtsW": 17,
+    "PtsL": 14
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 33,
+    "PtsL": 17
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 25,
+    "PtsL": 24
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Chicago Bears"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 17,
+    "PtsL": 13
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 31,
+    "PtsL": 16
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 19,
+    "PtsL": 14
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "Phoenix Cardinals"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 38,
+    "PtsL": 10
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-05",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 21,
+    "PtsL": 8
+ },
+  {
+    "Week": "14",
+    "Date": "1993-12-06",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 23,
+    "PtsL": 17
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-11",
+    "Winner": {
+       "tie": "New York Jets"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 3,
+    "PtsL": 0
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-11",
+    "Winner": {
+       "tie": "Atlanta Falcons"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Philadelphia Eagles"
+    },
+    "PtsW": 10,
+    "PtsL": 7
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 13,
+    "PtsL": 10
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 7,
+    "PtsL": 2
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 19,
+    "PtsL": 17
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 23,
+    "PtsL": 20
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 37,
+    "PtsL": 20
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 27,
+    "PtsL": 21
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Phoenix Cardinals"
+    },
+    "PtsW": 21,
+    "PtsL": 14
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 27,
+    "PtsL": 23
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-12",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Week": "15",
+    "Date": "1993-12-13",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 21,
+    "PtsL": 20
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-18",
+    "Winner": {
+       "tie": "Denver Broncos"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 13,
+    "PtsL": 3
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-18",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 28,
+    "PtsL": 7
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 21,
+    "PtsL": 17
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 26,
+    "PtsL": 17
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Washington Redskins"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 30,
+    "PtsL": 17
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 47,
+    "PtsL": 34
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 15,
+    "PtsL": 3
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 20,
+    "PtsL": 17
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 27,
+    "PtsL": 20
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Phoenix Cardinals"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 30,
+    "PtsL": 27
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 55,
+    "PtsL": 17
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "San Diego Chargers"
+    },
+    "PtsW": 28,
+    "PtsL": 24
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-19",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 20,
+    "PtsL": 10
+ },
+  {
+    "Week": "16",
+    "Date": "1993-12-20",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 24,
+    "PtsL": 14
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-25",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 10,
+    "PtsL": 7
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Cincinnati Bengals"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 21,
+    "PtsL": 17
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 16,
+    "PtsL": 14
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 20,
+    "PtsL": 14
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "New Orleans Saints"
+    },
+    "PtsW": 37,
+    "PtsL": 26
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Los Angeles Raiders"
+    },
+    "PtsW": 28,
+    "PtsL": 0
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 38,
+    "PtsL": 0
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Phoenix Cardinals"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 17,
+    "PtsL": 6
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 38,
+    "PtsL": 3
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Cleveland Browns"
+    },
+    "Loser": {
+       "tie": "Los Angeles Rams"
+    },
+    "PtsW": 42,
+    "PtsL": 14
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Seattle Seahawks"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 16,
+    "PtsL": 6
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-26",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Week": "17",
+    "Date": "1993-12-27",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 45,
+    "PtsL": 20
+ },
+  {
+    "Week": "18",
+    "Date": "1993-12-31",
+    "Winner": {
+       "tie": "Minnesota Vikings"
+    },
+    "Loser": {
+       "tie": "Washington Redskins"
+    },
+    "PtsW": 14,
+    "PtsL": 9
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Detroit Lions"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 30,
+    "PtsL": 20
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "New England Patriots"
+    },
+    "Loser": {
+       "tie": "Miami Dolphins"
+    },
+    "PtsW": 33,
+    "PtsL": 27
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 16,
+    "PtsL": 13
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Phoenix Cardinals"
+    },
+    "Loser": {
+       "tie": "Atlanta Falcons"
+    },
+    "PtsW": 27,
+    "PtsL": 10
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Indianapolis Colts"
+    },
+    "PtsW": 30,
+    "PtsL": 10
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Seattle Seahawks"
+    },
+    "PtsW": 34,
+    "PtsL": 24
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "Loser": {
+       "tie": "Cleveland Browns"
+    },
+    "PtsW": 16,
+    "PtsL": 9
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "San Diego Chargers"
+    },
+    "Loser": {
+       "tie": "Tampa Bay Buccaneers"
+    },
+    "PtsW": 32,
+    "PtsL": 17
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 33,
+    "PtsL": 30
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "New Orleans Saints"
+    },
+    "Loser": {
+       "tie": "Cincinnati Bengals"
+    },
+    "PtsW": 20,
+    "PtsL": 13
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Los Angeles Rams"
+    },
+    "Loser": {
+       "tie": "Chicago Bears"
+    },
+    "PtsW": 20,
+    "PtsL": 6
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-02",
+    "Winner": {
+       "tie": "Houston Oilers"
+    },
+    "Loser": {
+       "tie": "New York Jets"
+    },
+    "PtsW": 24,
+    "PtsL": 0
+ },
+  {
+    "Week": "18",
+    "Date": "1994-01-03",
+    "Winner": {
+       "tie": "Philadelphia Eagles"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 37,
+    "PtsL": 34
+ },
+  {
+    "Week": "",
+    "Date": "Playoffs",
+    "Winner": {
+       "tie": ""
+    },
+    "Loser": {
+       "tie": ""
+    },
+    "PtsW": null,
+    "PtsL": null
+ },
+  {
+    "Week": "WildCard",
+    "Date": "1994-01-08",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Pittsburgh Steelers"
+    },
+    "PtsW": 27,
+    "PtsL": 24
+ },
+  {
+    "Week": "WildCard",
+    "Date": "1994-01-08",
+    "Winner": {
+       "tie": "Green Bay Packers"
+    },
+    "Loser": {
+       "tie": "Detroit Lions"
+    },
+    "PtsW": 28,
+    "PtsL": 24
+ },
+  {
+    "Week": "WildCard",
+    "Date": "1994-01-09",
+    "Winner": {
+       "tie": "New York Giants"
+    },
+    "Loser": {
+       "tie": "Minnesota Vikings"
+    },
+    "PtsW": 17,
+    "PtsL": 10
+ },
+  {
+    "Week": "WildCard",
+    "Date": "1994-01-09",
+    "Winner": {
+       "tie": "Los Angeles Raiders"
+    },
+    "Loser": {
+       "tie": "Denver Broncos"
+    },
+    "PtsW": 42,
+    "PtsL": 24
+ },
+  {
+    "Week": "Division",
+    "Date": "1994-01-15",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Los Angeles Raiders"
+    },
+    "PtsW": 29,
+    "PtsL": 23
+ },
+  {
+    "Week": "Division",
+    "Date": "1994-01-15",
+    "Winner": {
+       "tie": "San Francisco 49ers"
+    },
+    "Loser": {
+       "tie": "New York Giants"
+    },
+    "PtsW": 44,
+    "PtsL": 3
+ },
+  {
+    "Week": "Division",
+    "Date": "1994-01-16",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Green Bay Packers"
+    },
+    "PtsW": 27,
+    "PtsL": 17
+ },
+  {
+    "Week": "Division",
+    "Date": "1994-01-16",
+    "Winner": {
+       "tie": "Kansas City Chiefs"
+    },
+    "Loser": {
+       "tie": "Houston Oilers"
+    },
+    "PtsW": 28,
+    "PtsL": 20
+ },
+  {
+    "Week": "ConfChamp",
+    "Date": "1994-01-23",
+    "Winner": {
+       "tie": "Buffalo Bills"
+    },
+    "Loser": {
+       "tie": "Kansas City Chiefs"
+    },
+    "PtsW": 30,
+    "PtsL": 13
+ },
+  {
+    "Week": "ConfChamp",
+    "Date": "1994-01-23",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "San Francisco 49ers"
+    },
+    "PtsW": 38,
+    "PtsL": 21
+ },
+  {
+    "Week": "SuperBowl",
+    "Date": "1994-01-30",
+    "Winner": {
+       "tie": "Dallas Cowboys"
+    },
+    "Loser": {
+       "tie": "Buffalo Bills"
+    },
+    "PtsW": 30,
+    "PtsL": 13
+ }
+ ]
